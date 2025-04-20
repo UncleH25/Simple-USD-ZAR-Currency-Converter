@@ -18,14 +18,14 @@ This program allows users to input an amount in USD and calculates the equivalen
 ## 📦 How to Run
 1. Clone The Repo Using CMD:
 ```
-git clone https://github.com/your-username/simple-usd-zar-currency-converter.git
+git clone https://github.com/UncleH25/Simple-USD-ZAR-Currency-Converter.git
 cd simple-usd-zar-currency-converter
 ```
 
 3. From a terminal (in the extracted folder), run:
 ```
 g++ -o converter main.cpp
-cd simple-usd-zar-currency-converter
+./simple-usd-zar-currency-converter
 ```
 
 4. Or, if you're using an IDE like Code::Blocks or Visual Studio, open the file and press **Run** or **Build and Run**.
